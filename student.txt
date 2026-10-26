@@ -1,0 +1,10 @@
+101|swami|BCA|78
+102|Neha|BCA|85
+103|Yash|BCA|92
+104|Amit|MCA|67
+105|Priya|MCA|88
+106|Kiran|BCA|74
+107|Meena|MCA|81
+108|Suresh|BCA|90
+109|Ravi|MCA|69
+110|Pooja|BCA|95
